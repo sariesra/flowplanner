@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">flowplanner</string>
+    <string name="kullanici">isiminiz</string>
+    <string name="basla_butonu">Başla</string>
+    <string name="yeni_akis">Yeni Akış Oluşturun.</string>
+    <string name="akislari_goruntule">Mevcut Akışlarınızı Görüntüleyin.</string>
+    <string name="merhaba">Merhaba</string>
+    <string name="is_ekle">İş ekleyin</string>
+    <string name="ekle_button">Ekle</string>
+    <string name="droptable">drop table if exist kullanici</string>
+    <string name="sil">lİSTEYİ TEMİZLE</string>
+    <string name="tarih_sec">Tarih Seçiniz</string>
+</resources>
